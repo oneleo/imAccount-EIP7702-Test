@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Compiler files
+cache/
+
+# Miscellaneous
+.DS_Store
+
+# Hardhat files
+cache_hardhat
+artifacts
